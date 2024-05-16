@@ -1,8 +1,5 @@
-data/
-sols/
-notebooks/
-*.log
-*.csv
+ml-25m/
+results*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
